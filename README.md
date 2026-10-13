@@ -111,22 +111,23 @@ Expected results:
 Developed as a Python-based sustainability and resource management project.
 
 
+
 ## 📸 Project Screenshots
 
 ### 1. Main Menu
-![Main Menu](screenshots/01-main-menu.png)
+![Main Menu](01-main-menu.png)
 
 ### 2. Water Management
-![Water Management](screenshots/02-water-management.png)
+![Water Management](02-water-management.png)
 
 ### 3. Electricity Management
-![Electricity Management](screenshots/03-electricity-management.png)
+![Electricity Management](03-electricity-management.png)
 
 ### 4. Waste Management
-![Waste Management](screenshots/04-waste-management.png)
+![Waste Management](04-waste-management.png)
 
 ### 5. Leak Detection
-![Leak Detection](screenshots/05-leak-detection.png)
+![Leak Detection](05-leak-detection.png)
 
 ### 6. Resource Planning
-![Resource Planning](screenshots/06-resource-planning.png)
+![Resource Planning](06-resource-planning.png)
